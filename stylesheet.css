@@ -1,0 +1,33 @@
+
+header {
+  background-color: black;
+  height: 40px;
+}
+
+.container {
+  background-color: black;
+}
+
+.header-logo a {
+  float: right;
+  font-size: 15px;
+  color: white;
+  padding: 10px 15px 10px 0;
+}
+
+body .container {
+  height: 100px;
+}
+
+.container h1 {
+  text-align: center;
+  color: white;
+  letter-spacing: 2px;
+}
+
+.container p {
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  font-weight: normal;
+}
